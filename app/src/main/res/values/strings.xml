@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LentaNews</string>
+    <string name="top_7_news">TOP 7 NEWS</string>
+    <string name="category_btn_name">view</string>
+    <string name="_24_news">24 NEWS</string>
+    <string name="all_news">ALL NEWS</string>
+</resources>
